@@ -6,6 +6,7 @@
 - 如果觉得此项目对你有所帮助，记得点击右上方的Star~~谢谢
 
 
-#### 引用的网络资料
+
+#### 引用的网络资料（感谢HuangCongQing和marsggbo的分享）
 - [HuangCongQing的深度学习笔记](https://github.com/HuangCongQing/deeplearning.ai-note)
 - [marsggbo的笔记](https://github.com/marsggbo/deeplearning.ai_JupyterNotebooksv)
