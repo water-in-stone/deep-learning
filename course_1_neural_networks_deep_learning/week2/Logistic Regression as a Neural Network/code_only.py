@@ -103,7 +103,8 @@ def propagate(w, b, X, Y):
     - Write your code step by step for the propagation. np.log(), np.dot()
     """
 
-    m = X.shape[1]
+    # m代表样本的个数
+    m = X.shape[1]  
 
     # FORWARD PROPAGATION (FROM X TO COST)
     # START CODE HERE ### (≈ 2 lines of code)
